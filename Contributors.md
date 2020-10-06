@@ -1,6 +1,7 @@
 # Contributors
 
 - [Saccha Agriel](https://github.com/sacchaagriel)
+- [Saccha Agriel](https://github.com/IamJuanMi33)
 - [Marisescu Cristian](https://github.com/cristian-marisescu)
 - [Gautam kumar](https://github.com/gautam08)
 - [Jack Kendall](https://github.com/jkendall327)
